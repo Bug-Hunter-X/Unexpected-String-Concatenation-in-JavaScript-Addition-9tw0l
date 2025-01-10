@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to type coercion in arithmetic operations. The `bug.js` file showcases the issue where adding a number and a string results in unexpected string concatenation. The `bugSolution.js` file provides a solution to handle type checking and prevent this from happening.
